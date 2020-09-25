@@ -10,6 +10,8 @@
 <img align="left" alt="ZHANtech's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=zhantech)
+
 -------
 
 - 🔭 I'm currently Maintaining ROM on **Redmi 4X (Santoni)**
