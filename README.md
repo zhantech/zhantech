@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hey 👋, I'm [ZHANtech™](https://t.me/zhantech)!
 
-<!--
-**zhantech/zhantech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://t.me/zhantech">
+<img align="left" alt="ZHANtech's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://twitter.com/zhantech">
+<img align="left" alt="ZHANtech's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/zhantech">
+<img align="left" alt="ZHANtech's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-Here are some ideas to get you started:
+-------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently Maintaining ROM on **Redmi 4X (Santoni)**
+- 🌱 I'm a beginner, but i'm passionate about learning
+- ⚡ Fun fact: Big Fan of the :zap: emoji
+
+-------
+
+**Some programming languages that are already learned by me as follows:** 
+<p>
+  <a href="https://github.com/zhantech">
+    <img width="55%" align="right" alt="ZHANtech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zhantech&show_icons=true&hide_border=true" />
+  </a>
+
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/blogger/blogger-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/joomla/joomla-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+    <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+</p>
