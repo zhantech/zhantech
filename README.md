@@ -14,9 +14,9 @@
 
 -------
 
-- 🔭 I'm currently Maintaining ROM on **Redmi 4X (Santoni)**
-- 🌱 I'm a beginner, but i'm passionate about learning
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+- I'm from Indonesia, and I'm a beginner.
+- I'm Maintainer of some Roms on Redmi 4X Devices.
+- I have high curiosity, keep learning to increase knowledge.
 
 -------
 
