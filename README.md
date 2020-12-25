@@ -15,7 +15,7 @@
 -------
 
 - I'm from Indonesia, and I'm a beginner.
-- I'm Maintainer of some Roms on Redmi 4X Devices.
+- I'm Maintainer of some Roms on Redmi Note 8 and Redmi 4X Devices.
 - I have high curiosity, keep learning to increase knowledge.
 
 -------
