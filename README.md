@@ -23,7 +23,7 @@
 **Some programming languages that are already learned by me as follows:** 
 <p>
   <a href="https://github.com/zhantech">
-    <img width="40%" align="right" alt="ZHANtech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zhantech&show_icons=true&hide_border=true" />
+    <img width="50%" align="right" alt="ZHANtech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zhantech&show_icons=true&hide_border=true" />
   </a>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/blogger/blogger-ar21.svg"></code>
